@@ -34,3 +34,6 @@ public class Tut3Sender {
     }
 
 }
+
+//java -jar target/rabbitmq-0.0.1-SNAPSHOT.jar --spring.profiles.active=pub-sub,receiver --tutorial.client.duration=60000
+//java -jar target/rabbitmq-0.0.1-SNAPSHOT.jar --spring.profiles.active=pub-sub,sender --tutorial.client.duration=60000
