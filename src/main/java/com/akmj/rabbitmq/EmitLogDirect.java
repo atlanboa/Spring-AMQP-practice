@@ -1,4 +1,4 @@
-package com.akmj.rabbitmq.tut4;
+package com.akmj.rabbitmq;
 
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
